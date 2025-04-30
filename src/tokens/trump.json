@@ -1,0 +1,13 @@
+{
+    "name": "Trump",
+    "symbol": "TRUMP",
+    "address": "5owrTPccHufZGiveSnEN7BrdFhD5CJCX3jfpzPiuwA1h",
+    "decimals": 3,
+    "description": "Community driven token featuring United States President Donald J. Trump",
+    "logo": "",
+    "website": "",
+    "tags": ["verified", "meme", "community"],
+    "verified": true,
+    "verifiedBy": "Domino Foundation",
+    "verificationDate": "2025-04-29"
+  }

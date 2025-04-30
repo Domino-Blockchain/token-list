@@ -1,0 +1,13 @@
+{
+    "name": "SesameSwap",
+    "symbol": "SESA",
+    "address": "8EbTAA5tG9vaeqMGM1d8SeDGxBwznGd7aJMAU1Fmf5Sv",
+    "decimals": 6,
+    "description": "Governance and utility token for the SesameSwap decentralized exchange",
+    "logo": "",
+    "website": "https://sesameswap.com/",
+    "tags": ["verified", "defi", "dex", "governance"],
+    "verified": true,
+    "verifiedBy": "Domino Foundation",
+    "verificationDate": "2025-04-29"
+  }

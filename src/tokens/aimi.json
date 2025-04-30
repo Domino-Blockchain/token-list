@@ -1,0 +1,14 @@
+{
+    "name": "Domi AI token",
+    "symbol": "AIMI",
+    "address": "2czST3NHc7CoNWwfDCVPrjMDSyqT9tLi7X5WhuYWhhKf",
+    "decimals": 2,
+    "description": "Utility token for the Domi AI",
+    "logo": "",
+    "website": "https://www.dominochain.com/",
+    "twitter": "https://x.com/DomiChain",
+    "tags": ["verified", "utility", "ai"],
+    "verified": true,
+    "verifiedBy": "Domino Foundation",
+    "verificationDate": "2025-04-29"
+  }

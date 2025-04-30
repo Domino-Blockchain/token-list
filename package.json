@@ -1,0 +1,32 @@
+{
+    "name": "@domino-foundation/token-list",
+    "version": "1.0.0",
+    "description": "A comprehensive list of tokens verified by the Domino Foundation",
+    "main": "tokens.json",
+    "scripts": {
+      "validate": "node src/utils/validate.js",
+      "build": "node src/utils/build.js",
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Domino-Blockchain/token-list.git"
+    },
+    "keywords": [
+      "tokens",
+      "crypto",
+      "verified",
+      "domi",
+      "blockchain"
+    ],
+    "author": "Domino Foundation",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Domino-Blockchain/token-list/issues"
+    },
+    "homepage": "https://github.com/Domino-Blockchain/token-list#readme",
+    "devDependencies": {
+      "ajv": "^8.12.0",
+      "jest": "^29.7.0"
+    }
+  }
